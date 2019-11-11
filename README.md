@@ -8,7 +8,7 @@ This repo is the collection of all the work that gets done over the semester. I'
 ~~-Object drawing app~~
 - Complete the Random Name Picker
 	- Add weighting/person preference to the demo code in "random_picker_demo.py"
-
+- Create a flow chart and program to mimic a vending machine
 
 ## Python Resources
 
@@ -18,7 +18,7 @@ This repo is the collection of all the work that gets done over the semester. I'
 
 ## How to use Github
 
-Here are some "How To" videos:
+Here is another reference to look back on: https://guides.github.com/activities/hello-world/
 
 Basically, Github is a file sharing and version control manager. It's mainly used in large projects to allow multiple people to make changes to the same files, simultaneously. There is a master branch, where the main code is, and branches, where individuals will upload their own changes. The owner of a project with then merge those changes with the code in the master branch. Merging automatically finds the differences between the files in each branch, and asks the owner which changes to keep. These are called "conflicts". Once all conflicts have been resolved, github will merge the branches. I'll do a demo of all this next lesson.
 
