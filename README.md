@@ -4,11 +4,19 @@ This repo is the collection of all the work that gets done over the semester. I'
 
 ## Assignment
 
-~~-Basic control sturctures~~
-~~-Object drawing app~~
-- Complete the Random Name Picker
+~~- Basic control sturctures~~
+~~- Object drawing app~~
+~~- Complete the Random Name Picker
 	- Add weighting/person preference to the demo code in "random_picker_demo.py"
-- Create a flow chart and program to mimic a vending machine
+- Create a flow chart and program to mimic a vending machine~~
+- ASSIGNMMENT 3: Write a function to replace every lowercase character to its uppercase equivalent. You
+may not use upper(), and your solution MUST use the ord() and/or chr() functions. If
+you are not familiar with these functions, check the documentation at
+https://docs.python.org/3/library/functions.html. You may not use functions like
+encode or replace either - you are expected to use LOOPS to accomplish this
+replacement. This function must take only the string to be modified as an
+argument and must return the new string.
+- You can upload your solution to your branch
 
 ## Python Resources
 
